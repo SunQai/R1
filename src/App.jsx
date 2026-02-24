@@ -162,7 +162,7 @@ export default function MobileLandingLayout() {
         <header className="sticky top-0 w-full h-16 z-[100] bg-black/80 backdrop-blur-xl flex items-center px-6 border-b border-white/5">
           <div className="w-10 flex justify-start">
             <a href="/" className="active:scale-90 transition-transform flex items-center justify-center">
-              <img src="/img/R1VKO.png" alt="RusOne Logo" className="w-8 h-8 object-contain rotate-[-3deg]" />
+            <img src="/R1/img/R1VKO.png" alt="RusOne Logo" />
             </a>
           </div>
           <div className="flex-1 flex justify-center">
