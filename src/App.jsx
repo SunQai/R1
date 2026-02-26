@@ -49,6 +49,7 @@ const STEPS = [
 ];
 
 // --- ЗАГОТОВЛЕННЫЕ СООБЩЕНИЯ (КРАТКИЕ) ---
+const TARGET_URL = "https://sunqai.github.io/R1/";
 const WA_MESSAGE = "Здравствуйте! Интересует русификация авто.";
 const TG_MESSAGE = "Здравствуйте! Интересует русификация авто.";
 
