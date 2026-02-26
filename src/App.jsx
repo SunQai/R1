@@ -49,7 +49,6 @@ const STEPS = [
 ];
 
 // --- ЗАГОТОВЛЕННЫЕ СООБЩЕНИЯ (КРАТКИЕ) ---
-const TARGET_URL = "https://sunqai.github.io/R1/";
 const WA_MESSAGE = "Здравствуйте! Интересует русификация авто.";
 const TG_MESSAGE = "Здравствуйте! Интересует русификация авто.";
 
@@ -162,12 +161,12 @@ export default function MobileLandingLayout() {
         {/* === HEADER === */}
         <header className="sticky top-0 w-full h-16 z-[100] bg-black/80 backdrop-blur-xl flex items-center px-6 border-b border-white/5">
           <div className="w-10 flex justify-start">
-            <a href="/" className="active:scale-90 transition-transform flex items-center justify-center">
-            <img src="/R1/img/R1VKO.png" alt="RusOne Logo" />
+            <a href="https://sunqai.github.io/R1/" className="active:scale-90 transition-transform flex items-center justify-center">
+            <img src="piblic/img/R1VKO.png" alt="RusOne Logo" />
             </a>
           </div>
           <div className="flex-1 flex justify-center">
-            <a href="/" className="text-[18px] tracking-[0.2em] uppercase italic leading-none text-red-600">RusOne</a>
+            <a href="https://sunqai.github.io/R1/" className="text-[18px] tracking-[0.2em] uppercase italic leading-none text-red-600">RusOne</a>
           </div>
           <div className="w-10 flex justify-end">
             <a href="https://www.instagram.com/rusonevko" target="_blank" rel="noreferrer" className="active:scale-90 transition-transform flex items-center justify-center">
