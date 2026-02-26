@@ -166,7 +166,7 @@ export default function MobileLandingLayout() {
             </a>
           </div>
           <div className="flex-1 flex justify-center">
-            <a href="https://sunqai.github.io/R1/" className="text-[18px] tracking-[0.2em] uppercase italic leading-none text-red-600">RusOn</a>
+            <a href="https://sunqai.github.io/R1/" className="text-[18px] tracking-[0.2em] uppercase italic leading-none text-red-600">Rus</a>
           </div>
           <div className="w-10 flex justify-end">
             <a href="https://www.instagram.com/rusonevko" target="_blank" rel="noreferrer" className="active:scale-90 transition-transform flex items-center justify-center">
